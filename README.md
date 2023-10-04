@@ -5,7 +5,7 @@
 
 Proyecto desarrollado como parte del curso Taller Web.
 
-#Tecnologias Usadas
+# Tecnologias Usadas
 Se uso las tecnologías mencionadas a continuación:
 * PHP
 * Javascript
